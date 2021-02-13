@@ -6,7 +6,7 @@ namespace ConsoleAppRep2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Fix a second bug");
+            Console.WriteLine("Fix a third bug");
         }
     }
 }
