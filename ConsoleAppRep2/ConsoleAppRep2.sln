@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppRep2", "ConsoleAppRep2.csproj", "{EF04C2BB-05A4-4852-9522-78617D494436}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppRep2", "ConsoleAppRep2.csproj", "{EF04C2BB-05A4-4852-9522-78617D494436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accademy.CRM.Plugin", "..\Accademy.CRM.Plugin\Accademy.CRM.Plugin.csproj", "{95FBD76E-B2A3-4BA3-B56C-82B7EC87351D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accademy.CRM.Common", "..\Accademy.CRM.Common\Accademy.CRM.Common.csproj", "{7CFDBEB7-42F9-4BD5-B032-E51C1E039DB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accademy.CRM.WebResources", "..\Accademy.CRM.WebResources\Accademy.CRM.WebResources.csproj", "{DA5E80B1-DF42-47C0-A9B5-C4CF424EB58D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{EF04C2BB-05A4-4852-9522-78617D494436}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF04C2BB-05A4-4852-9522-78617D494436}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF04C2BB-05A4-4852-9522-78617D494436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FBD76E-B2A3-4BA3-B56C-82B7EC87351D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FBD76E-B2A3-4BA3-B56C-82B7EC87351D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FBD76E-B2A3-4BA3-B56C-82B7EC87351D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FBD76E-B2A3-4BA3-B56C-82B7EC87351D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CFDBEB7-42F9-4BD5-B032-E51C1E039DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFDBEB7-42F9-4BD5-B032-E51C1E039DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFDBEB7-42F9-4BD5-B032-E51C1E039DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFDBEB7-42F9-4BD5-B032-E51C1E039DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5E80B1-DF42-47C0-A9B5-C4CF424EB58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5E80B1-DF42-47C0-A9B5-C4CF424EB58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5E80B1-DF42-47C0-A9B5-C4CF424EB58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5E80B1-DF42-47C0-A9B5-C4CF424EB58D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
