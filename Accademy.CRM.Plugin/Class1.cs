@@ -8,6 +8,7 @@ namespace Accademy.CRM.Plugin
 {
     public class Class1
     {
-        //this is a tested plugin 
+        //this is a tested plugin  modifica 1533
+        //svuluppo feature A priorità
     }
 }
