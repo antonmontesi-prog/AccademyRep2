@@ -8,6 +8,6 @@ namespace Accademy.CRM.Plugin
 {
     public class Class1
     {
-        //test comment 
+        //this is a tested plugin 
     }
 }
